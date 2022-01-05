@@ -1,0 +1,46 @@
+#root{
+    background-color:gold;
+}
+.img-thumbnail
+{
+background-color:gold;
+}
+#j
+{
+height:200px;
+width: 500px;
+}
+#mk{
+width: 100%;
+}
+#u
+{
+width:35%;
+}
+a:hover{
+    background-color: white;
+}
+
+#v:hover{
+    background-color: seagreen;
+}
+#vv:hover{
+    background-color: seagreen;
+    width: 100%;
+}
+#vvv:hover{
+    background-color: seagreen;
+}
+
+#ll{width:60%;}
+
+#lll{width:73%;
+float:right;}
+
+#l{width: 68%;}
+
+#xc
+{float: right;}
+
+
+
