@@ -10,9 +10,9 @@ return(
     <div className="container text-success d-flex flex-row-reverse">
 
 <h4><br/>
-<a href="https://www.facebook.com/Mohamed.Omar.El.Daabousy/"><FaFacebook className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/moeedaabousy?utm_medium=copy_link"><FaInstagram className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-el-daabousy-a48a80224/"><FaLinkedin className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a className="rounded" href="https://www.facebook.com/Mohamed.Omar.El.Daabousy/"><FaFacebook className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a className="rounded" href="https://instagram.com/moeedaabousy?utm_medium=copy_link"><FaInstagram className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a className="rounded" href="https://www.linkedin.com/in/mohamed-el-daabousy-a48a80224/"><FaLinkedin className="text-success"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </h4>
 </div>
 <footer className="container">
