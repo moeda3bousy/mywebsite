@@ -41,7 +41,6 @@ class Header extends Component{
         <h2> Front-end Engineer</h2><br/>
 University: Misr University for Science and Technology <br/>
 Major: Computer Science<br/>
-Graduation Date: 2021<br/>
 Phone: (+2) 01142511793<br/>
 Email: elda3bousy@gmail.com<br/><br/>
 
