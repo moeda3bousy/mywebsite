@@ -1,3 +1,3 @@
-# myWebsite-React
+# mywebsite-React
 ## Link
 https://moeda3bousy.github.io/mywebsite/
